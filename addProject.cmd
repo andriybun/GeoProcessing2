@@ -1,0 +1,1 @@
+NEW_PROJECT_TEMPLATE\\addNewProject.py %*
